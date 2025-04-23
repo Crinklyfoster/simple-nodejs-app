@@ -1,0 +1,17 @@
+devops characteristics, stages , compare and , explain the tools 
+version controll management , different 
+git and github difference 
+jenkins CI 
+\
+ci and trtaditions , need of ci,
+how to operate jenkins 
+why to make jenkins operate in master , what are is CI overcome 
+use case scenario
+contanaireize it 
+
+buikd image, run a container container 
+
+compose file for multi container 
+
+configuartn, Ansilble , sample playbook to deploy lampstack
+Architecture of ansible, use case of ansible 
